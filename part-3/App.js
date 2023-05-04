@@ -11,11 +11,7 @@ const App = () => {
         age="15"
         hobbies={["bowling", "Running", "Video Games"]}
       />
-      <Person
-        name="Panko"
-        age="33"
-        hobbies={["bowling", "watching tv", "drinking beer"]}
-      />
+      <Person name="Panko" age="33" hobbies={["watching tv", "drinking tea"]} />
     </div>
   );
 };
