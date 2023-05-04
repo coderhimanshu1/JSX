@@ -1,0 +1,16 @@
+.tweet {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #00cc18;
+  border-radius: 20px;
+  margin: 20px 20%;
+  text-align: center;
+  padding: 20px;
+}
+
+.username,
+.date {
+  color: #999;
+  display: inline-block;
+  margin: 0 10px;
+}
